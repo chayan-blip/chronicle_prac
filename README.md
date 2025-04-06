@@ -1,1 +1,4 @@
-# chronicle_prac
+Chronicle
+============
+
+Persisted low latency messaging
